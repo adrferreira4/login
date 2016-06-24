@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 23 23:42:32 BRT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0155-8049-9092-000005a10e70 
+on database directory C:\Users\Adriel\DESENVOLVIMENTO\Login_banco\db with class loader WebappClassLoader
+  context: /Login_banco
+  delegate: false
+  repositories:
+----------> Parent Classloader:
+ClassRealm[plugin>org.apache.tomcat.maven:tomcat7-maven-plugin:2.2, parent: sun.misc.Launcher$AppClassLoader@70dea4e]
+ 
+Loaded from file:/C:/Users/Adriel/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Users\Adriel\DESENVOLVIMENTO\Login_banco
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
